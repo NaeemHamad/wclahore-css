@@ -9,3 +9,8 @@
 .site-header .custom-header .site-title {
   font-size:36px;
 }
+/*
+Speaker CSS */
+.page-slug-speakers .site-main .entry-content{
+	max-width: 100%;
+}
